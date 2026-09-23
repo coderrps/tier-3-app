@@ -1,0 +1,70 @@
+# =========================
+# Terraform
+# =========================
+
+Terraform/.terraform/
+Terraform/*.tfstate
+Terraform/*.tfstate.*
+Terraform/*.tfvars
+Terraform/*.tfvars.json
+
+# Terraform crash/debug files
+crash.log
+crash.*.log
+.terraformrc
+terraform.rc
+
+
+# =========================
+# Secrets / Credentials
+# =========================
+
+.env
+.env.*
+*.pem
+*.key
+*.crt
+
+# AWS CLI credentials
+.aws/
+
+
+# =========================
+# Node.js
+# =========================
+
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# =========================
+# Build / Frontend
+# =========================
+
+**/build/
+**/dist/
+
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+
+# =========================
+# IDE
+# =========================
+
+.vscode/
+.idea/
+
+
+# =========================
+# Logs
+# =========================
+
+*.log
