@@ -2,6 +2,10 @@
 
 This document contains the commands used to deploy the three-tier application on AWS EKS.
 
+<img width="1913" height="967" alt="image" src="https://github.com/user-attachments/assets/088af688-1941-4f64-8f23-106b0f77f048" />
+<img width="1895" height="902" alt="image" src="https://github.com/user-attachments/assets/b18c6ccc-89d4-4299-9da7-462d1373235d" />
+
+
 ## Architecture
 
 ```text
